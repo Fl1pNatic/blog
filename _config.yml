@@ -1,0 +1,16 @@
+title: 8blog
+email: ex8c8r@gmail.com
+description: >-
+  This is just a blog where I post about nerdy stuff, like a nerd.
+baseurl: "/blog" 
+url: "" 
+twitter_username: x8c8r
+github_username:  x8c8r
+youtube_username: '@x8c8r'
+
+permalink: pretty
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
